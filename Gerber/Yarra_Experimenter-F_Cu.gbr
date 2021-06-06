@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,(5.1.9)-1*%
-%TF.CreationDate,2021-06-06T22:50:25+02:00*%
+%TF.CreationDate,2021-06-06T23:04:22+02:00*%
 %TF.ProjectId,Yarra_Experimenter,59617272-615f-4457-9870-6572696d656e,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Copper,L1,Top*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (5.1.9)-1) date 2021-06-06 22:50:25*
+G04 Created by KiCad (PCBNEW (5.1.9)-1) date 2021-06-06 23:04:22*
 %MOMM*%
 %LPD*%
 G01*
@@ -992,7 +992,6 @@ X65800000Y-42100000D03*
 X65800000Y-45800000D03*
 X62300000Y-46000000D03*
 %TO.N,Net-(C1-Pad2)*%
-X86400000Y-72500000D03*
 X79000000Y-73600000D03*
 X79100000Y-68400000D03*
 X80800000Y-69200000D03*
