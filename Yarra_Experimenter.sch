@@ -14,10 +14,10 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Connector:Conn_01x02_Male GND
+L Connector:Conn_01x02_Male GND1
 U 1 1 60BA3366
 P 2700 2000
-F 0 "GND" H 2808 2181 50  0000 C CNN
+F 0 "GND1" H 2808 2181 50  0000 C CNN
 F 1 "Conn_01x02_Male" H 2808 2090 50  0000 C CNN
 F 2 "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 2700 2000 50  0001 C CNN
 F 3 "~" H 2700 2000 50  0001 C CNN
